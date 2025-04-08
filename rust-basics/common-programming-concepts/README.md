@@ -13,3 +13,15 @@
 - We also need to define the type of the const variable
 
 - Shadowing means that we can redefine a variable with the same name and the variable defined later will be used and the pre one will be shadowed by the compiler
+
+## Data types
+
+- There are 4 Scalar data types, integers, floating-point numbers, boolean and characters
+
+- There are two compund data types, tuple and array
+
+- Tuple have fixed length, once defined, they can't grow or shrink
+
+- Every element in tuple can have his own data type
+
+- Array have fixed length in rust, and also has same data types for all elements across it
