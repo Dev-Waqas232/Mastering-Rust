@@ -35,4 +35,11 @@ fn main() {
     let element = a[index];
 
     println!("The value of the element at index {index} is: {element}");
+
+    let val = plus_one(8);
+    println!("the value of val is {} ", val);
+}
+
+fn plus_one(x: i32) -> i32 {
+    x + 1
 }

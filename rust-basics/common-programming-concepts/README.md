@@ -25,3 +25,11 @@
 - Every element in tuple can have his own data type
 
 - Array have fixed length in rust, and also has same data types for all elements across it
+
+## Functions
+
+- Rust uses snake case convention for naming of functions and variables
+
+- Function declarations must contain the type of each parameter
+
+- If a line ends without semicolon, it is an expression and got automatically returned at the end of the block
